@@ -28,3 +28,6 @@ Para que el programa funcione correctamente, asegúrate de cumplir lo siguiente:
 
 ## Vista Previa
 ![Preview](Captura%20de%20pantalla%20124800.png)
+
+### Selección de Inicio (DirectX 11)
+![Preview 2](v1.png)
