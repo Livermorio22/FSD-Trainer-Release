@@ -13,6 +13,13 @@ Cualquier desconfianza siempre podrán contactarme en mi Discord: **redwoody22**
 
 Este *external cheat* es totalmente confiable ya que Deep Rock Galactic no tiene ningún tipo de protección kernel contra cheats. Además, al ser externo, no funciona mediante inyección DLL, solo lee la memoria del juego.
 
+## Demostración en Video
+Para mayor confianza, aquí tienen un video donde descargo y pruebo el trainer directamente en el juego, demostrando que es seguro y funcional:
+
+[![Demostración Deep Rock Galactic ESP](https://img.youtube.com/vi/7YdWgI1b1K8/0.jpg)](https://www.youtube.com/watch?v=7YdWgI1b1K8)
+
+[Ver video en YouTube](https://www.youtube.com/watch?v=7YdWgI1b1K8)
+
 ## Requisitos e Instrucciones
 
 Para que el programa funcione correctamente, asegúrate de cumplir lo siguiente:
@@ -24,7 +31,7 @@ Para que el programa funcione correctamente, asegúrate de cumplir lo siguiente:
 3.  **Resolución:** El programa detecta automáticamente la resolución de la ventana del juego, pero se recomienda **1600x900** para una experiencia óptima (que es la que uso yo).
 4.  **Ejecución:**
     *   Abre el juego primero y entra al lobby (Space Rig).
-    *   Ejecuta el `FSDTrainer.exe` como Administrador.
+    *   Ejecuta el `FSDTrainerV2.exe` como Administrador.
 
 ## Vista Previa
 ![Preview](v1.png)
