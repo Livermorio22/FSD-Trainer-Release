@@ -18,12 +18,13 @@ Este *external cheat* es totalmente confiable ya que Deep Rock Galactic no tiene
 Para que el programa funcione correctamente, asegúrate de cumplir lo siguiente:
 
 1.  **Juego:** Deep Rock Galactic (Versión Steam).
+    *   **IMPORTANTE:** Debes abrir el juego seleccionando **DirectX 11** en el lanzamiento.
 2.  **Modo de Pantalla:** Debes configurar el juego en **"Ventana sin Bordes" (Borderless Window)** o **"Ventana"**.
     *   *En Pantalla Completa exclusiva el menú podría no visualizarse correctamente.*
-3.  **Resolución:** El programa detecta automáticamente la resolución de la ventana del juego, pero se recomienda **1920x1080** para una experiencia óptima.
+3.  **Resolución:** El programa detecta automáticamente la resolución de la ventana del juego, pero se recomienda **1600x900** para una experiencia óptima (que es la que uso yo).
 4.  **Ejecución:**
     *   Abre el juego primero y entra al lobby (Space Rig).
     *   Ejecuta el `FSDTrainer.exe` como Administrador.
 
 ## Vista Previa
-![Preview](Captura%20de%20pantalla%20.png)
+![Preview](Captura%20de%20pantalla%20124800.png)
