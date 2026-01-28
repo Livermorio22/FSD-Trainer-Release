@@ -1,14 +1,29 @@
-# Mi Primer Proyecto
+# Mi Primer Proyecto - Deep Rock Galactic External ESP
 
 Este es mi primer proyecto.
 
-Soy consciente de que su utilidad práctica puede ser limitada, pero lo he creado con el único propósito de **aprender** y mejorar mis habilidades de programación.
+Soy consciente de que su utilidad práctica puede ser limitada, pero lo he creado con el único propósito de **aprender** y mejorar mis habilidades de programación. Es un paso importante en mi proceso de aprendizaje. ¡Gracias por verlo!
 
-Es un paso importante en mi proceso de aprendizaje. Gracias por verlo.
+## Descripción
+Lo he publicado para que puedan probarlo si alguien está en mi mismo punto actual de aprendizaje. He dejado que la consola muestre lo que hace el programa para que se sientan un poco más en confianza de probarlo.
 
-Lo he publicado para que puedan probarlo si alguien está en mi mismo punto actual de aprendizaje. He dejado que la consola muestre lo que hace el programa para que se sientan un poco más en confianza de probarlo. No es ningún virus; Windows Defender lo puede detectar como tal, pero es por la protección VM (VMProtect) que le he agregado.
+**Nota de Seguridad:** No es ningún virus. Windows Defender puede detectarlo como tal debido a la protección **VMProtect** que le he agregado para proteger el código.
 
-Cualquier desconfianza siempre podrán contactarme en mi discord **redwoody22**. Este external cheat es totalmente confiable ya que Deep Rock Galactic no tiene ningún tipo de protección kernel contra cheats. Aparte que es un external cheat, no funciona mediante inyección DLL, solo lee la memoria.
+Cualquier desconfianza siempre podrán contactarme en mi Discord: **redwoody22**.
+
+Este *external cheat* es totalmente confiable ya que Deep Rock Galactic no tiene ningún tipo de protección kernel contra cheats. Además, al ser externo, no funciona mediante inyección DLL, solo lee la memoria del juego.
+
+## Requisitos e Instrucciones
+
+Para que el programa funcione correctamente, asegúrate de cumplir lo siguiente:
+
+1.  **Juego:** Deep Rock Galactic (Versión Steam).
+2.  **Modo de Pantalla:** Debes configurar el juego en **"Ventana sin Bordes" (Borderless Window)** o **"Ventana"**.
+    *   *En Pantalla Completa exclusiva el menú podría no visualizarse correctamente.*
+3.  **Resolución:** El programa detecta automáticamente la resolución de la ventana del juego, pero se recomienda **1920x1080** para una experiencia óptima.
+4.  **Ejecución:**
+    *   Abre el juego primero y entra al lobby (Space Rig).
+    *   Ejecuta el `FSDTrainer.exe` como Administrador.
 
 ## Vista Previa
-![Preview](Captura%20de%20pantalla%202026-01-28%20121948.png)
+![Preview](Captura%20de%20pantalla%20.png)
